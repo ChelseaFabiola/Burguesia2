@@ -18,7 +18,7 @@
     <div class="text-center">
         <!--le cambie la escala a 75%-->
         <!--tambien le puse style="border:0; border-radius: 20px;"-->
-        <video src="img/restaurant.mp4" class="object-fit-scale" width="75%" autoplay controls muted style="border:0; border-radius: 15px;"></video>
+        <video src="img/LaBurguesiaDelPueblo(HD).mp4" class="object-fit-scale" width="75%" autoplay controls muted style="border:0; border-radius: 15px;"></video>
     </div>
 
     <!--agrege brs-->
