@@ -97,18 +97,8 @@
                     <label for="comentario">Comentario:</label>
                     <textarea class="form-control" id="comentario" rows="3" placeholder="Ingresa un comentario" required></textarea>
                 </div>
-<br>
-                <div class="form-group">
-                    <label for="calificacion">Calificación:</label>
-                    <select class="form-control" id="calificacion" required>
-                        <option value="">Seleccionar...</option>
-                        <option value="1">1 estrella</option>
-                        <option value="2">2 estrellas</option>
-                        <option value="3">3 estrellas</option>
-                        <option value="4">4 estrellas</option>
-                        <option value="5">5 estrellas</option>
-                    </select>
-                </div>
+
+
 <br>
                 <button type="submit" class="btn btn-primary">Enviar comentario</button>
             </form>
