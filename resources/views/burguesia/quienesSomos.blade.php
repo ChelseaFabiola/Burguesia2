@@ -55,7 +55,7 @@
   <img class="imglaposte" src="img/imagenQuienesSomos.jpg" alt="BP La Burguesía del Pueblo" width="400px" height="600px">
   <div class="card right-card">
     <div class="word-container">
-      <h5>Visión</h5>
+      <h5>Quienes somos</h5>
       <hr>
     </div>
     <p class="p-vision">Somos un establecimiento gastronómico dedicado a ofrecer experiencias culinarias únicas, especialmente en la creación de deliciosas hamburguesas. Nos comprometemos a superar las expectativas de nuestros comensales mediante la combinación de ingredientes frescos y de alta calidad, junto con un servicio excepcional. Con una atención meticulosa a los detalles y un enfoque en la excelencia en cada etapa de nuestro proceso de preparación y servicio, aspiramos a convertirnos en el referente culinario definitivo en el sur del estado de Quintana Roo.</p>
