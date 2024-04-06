@@ -49,18 +49,18 @@
     
     // Define un objeto con los platillos por categoría
     var menuItems = {
-        categoria1: [
+        categoria1: [ //Entradas
             {
-                titulo: 'Entrada 1',
-                descripcion: 'Descripción de la entrada 1.',
+                titulo: 'ORDEN DE PAPAS FRIES',
+                descripcion: '250gr de papas a la francesa, acompañadas de aderezo de la casa y queso cheddar.',
                 imagen: 'entrada1.jpg',
-                precio: '$10.00'
+                precio: '$85.00'
             },
             {
-                titulo: 'Entrada 2',
-                descripcion: 'Descripción de la entrada 2.',
+                titulo: 'Orden de papas gajo',
+                descripcion: '250gr de papas corte gajo acompañadas de aderezo de la casa y queso cheddar.',
                 imagen: 'entrada2.jpg',
-                precio: '$12.00'
+                precio: '$95.00'
             },
             {
                 titulo: 'Entrada 3',
@@ -154,7 +154,7 @@
             menuHTML += '<h5 class="card-title">' + items[i].titulo + '</h5>';
             menuHTML += '<p class="card-text">' + items[i].descripcion + '</p>';
             menuHTML += '<img src="' + items[i].imagen + '" class="card-img-top" alt="...">';
-            menuHTML += '<p class="card-text">Precio: ' + items[i].precio + '</p>';
+            menuHTML += '<h6 class="card-text">Precio: ' + items[i].precio + '</h6>';
             menuHTML += '<a href="#" class="btn btn-primary">Agregar</a>';
             menuHTML += '</div></div></div>';
             if ((i + 1) % 3 === 0 || i === items.length - 1) {
